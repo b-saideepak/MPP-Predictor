@@ -1,5 +1,5 @@
-# Light-weight-ML-DL-Branch-Predictor<br>
-Download the CBP-2016 Simulation Infrastructure: http://hpca23.cse.tamu.edu/cbp2016/cbp2016.final.tar.gz
+# Light-weight-ML-DL-Branch-Predictor
+Download the CBP-2016 Simulation Infrastructure: http://hpca23.cse.tamu.edu/cbp2016/cbp2016.final.tar.gz<br>
 Unpack the kit: 
 $ tar -xzvf cbp2016.tar.gz
 $ cd cbp2016
