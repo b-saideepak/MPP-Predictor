@@ -17,5 +17,6 @@ $ cd ../scripts <br>
 $ ./doit.sh <br>
 The outputs (MPkI) for various traces will be displayed on the screen along with mean MPkI as well as they are generated in detail in results folder. <br>
 We have uploaded our 2.25kB predictor.h file. You can use it to run the predictor with the above mentioned commands and obtain the results. <br>
-You can as well get the original predictor.h file from the downloaded infrastructure<br>
+Normally, it will take around 15-20 mins to obtain the results. <br>
+You can as well get the original predictor.h file from the downloaded infrastructure. <br>
 The location is /submissions/DanielJimenez1/cbp8KB/predictor.h <br>
