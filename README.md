@@ -7,8 +7,8 @@ There should be five directories: sim, scripts, traces, bin, and results. <br>
 You will need to install the BOOST library and add a link to the library to the Makefile in the sim directory. See comments in the Makefile. <br>
 You will need to download the evaluation traces: http://hpca23.cse.tamu.edu/cbp2016/evaluationTraces.Final.tar <br>
 Extract the traces to cbp2016/traces/ folder <br>
-You will have to modify the predictor.h file in sim directory to make changes to the predictor. <br>
-Place the predictor.h file in the sim directory. <br>
+You will have to place our uploaded predictor.h file in sim directory. <br>
+We have made all the changes to predictor.h file only. <br>
 The sim directory contains the simulator: <br>
 $ cd sim <br>
 $ make clean; make <br>
