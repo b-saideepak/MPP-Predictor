@@ -4,8 +4,8 @@ Download the CBP-2016 Simulation Infrastructure from [here](http://hpca23.cse.ta
 Unpack the kit: 
 
 ```bash
-$ tar -xzvf cbp2016.tar.gz <br>
-$ cd cbp2016 <br>
+$ tar -xzvf cbp2016.tar.gz 
+$ cd cbp2016 
 ```
 There should be five directories: sim, scripts, traces, bin, and results. 
 
