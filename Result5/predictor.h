@@ -7,7 +7,7 @@
  */
 
 //Removed 2 features and added a new feature 
-//Changing filter sizes - Make the number of filters in line number 1653 to 0/1024/2048
+//Changing filter sizes - Make the no. of filters in line number 1653 to 0/1024/2048
 
 #ifndef _PREDICTOR_H_
 #define _PREDICTOR_H_
