@@ -6,7 +6,7 @@
  *
  */
 
-//Explicit allocation of weights
+//Explicit allocation of weights to features
 
 
 #ifndef _PREDICTOR_H_
