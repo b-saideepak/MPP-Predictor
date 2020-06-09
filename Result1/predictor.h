@@ -7,7 +7,7 @@
  */
 
 
-// Reduced to 2.25KB
+// Reduced 2.25KB predictor
 
 #ifndef _PREDICTOR_H_
 #define _PREDICTOR_H_
