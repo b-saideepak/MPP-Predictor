@@ -6,7 +6,7 @@
  *
  */
 
-//Removed 2 features and added a new feature
+/*Removed 2 features and added a new feature*/
 
 #ifndef _PREDICTOR_H_
 #define _PREDICTOR_H_
