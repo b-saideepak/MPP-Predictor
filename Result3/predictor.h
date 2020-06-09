@@ -6,7 +6,7 @@
  *
  */
 
-//Removed 2 features
+//Removed 2 least performing features
 
 
 #ifndef _PREDICTOR_H_
