@@ -6,8 +6,8 @@
  *
  */
 
+//Explicit allocation of weights
 
-// Reduced to 2.25KB
 
 #ifndef _PREDICTOR_H_
 #define _PREDICTOR_H_
@@ -1604,9 +1604,9 @@ history_spec good3[16] = {
 { GHISTPATH, 11, 2, -1, 1.25, 0, 6 },
 { GHISTPATH, 15, 4, -1, 1.125, 0, 6 },
 { GHISTPATH, 31, 1, -1, 1.40625, 0, 6 },
-{ GHISTPATH, 7, 1, -1, 1.500000, 600, 6 },
-{ IMLI, 4, -1, -1, 1.28125, 375, 6 },
-{ LOCAL, -1, -1, -1, 1.5625, 512, 6 },
+{ GHISTPATH, 7, 1, -1, 1.500000, 140, 6 },
+{ IMLI, 4, -1, -1, 1.28125, 140, 6 },
+{ LOCAL, -1, -1, -1, 1.5625, 140, 6 },
 { RECENCY, 14, 4, -1, 1.250000, 0, 6 },
 { RECENCYPOS, 31, -1, -1, 1.875000, 0, 6 },
 { SGHISTPATH, 0, 4, 3, 1.65625, 0, 6 },
